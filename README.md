@@ -1,10 +1,21 @@
-- 👋 Hi, I’m @kbooms. You can call me KB, Booms, or just Kevin is fine. he/him
-- 👀 I’m interested in Game Development, Software Development, and Music
-- 🌱 I’m currently learning Java, SQL, and Full Stack Web Development
-- 💞️ I’m looking to collaborate on small projects for now. Would be cool to get my hands dirty.
-- 📫 Contact me: 
-- @kbooms on Twitter
+<h2> :handshake: Hi, I’m @kbooms </h2>
+
+- :desktop_computer: I'm an up and coming Java Developer from Michigan
+- :open_hands: You can call me KB, Booms, or just Kevin is fine. he/him
+- 👀 I’m interested in Software Development, Software Tooling, Game Development, Music, and Cooking
+- 🌱 I’m currently learning Front End Development with ES6 JavaScript, and React/Redux
+- :mechanical_arm: I have a firm understanding of Core Java Fundamentals, as well as the Spring Framework
+- 💞️ I'm looking for my first role in the field of Software Development. I'd also love to collaborate on smaller indie projects as well.
+
+I am a lifelong learner, and constantly teaching myself new skills. I love computer programming, and integrating code with technology. I like to build Mobile & Web-based applications, as well as tooling and applications for Desktops. In my spare time I enjoy cooking, being a playmate to my daughter, and practicing coding. I'm always trying to work on new personal projects to keep my skills sharp, and learn new things. I find it's the best way to grow.
+
+📫 Contact me: 
+- mrkbooms@gmail.com Email
 - https://www.linkedin.com/in/kevin-booms/ LinkedIn
+
+<h2> That's about all for now. </h2>
+<p> :peace_symbol: Thanks for stopping by! </p>
+<h3> All of my public repositories are available on my github account: https://github.com/kbooms?tab=repositories </h3>
 
 
 <!---
