@@ -7,7 +7,7 @@
 - :mechanical_arm: I have a firm understanding of Core Java Fundamentals, as well as the Spring Framework
 - 💞️ I'm looking for my first role in the field of Software Development. I'd also love to collaborate on smaller indie projects as well.
 
-I am a lifelong learner, and constantly teaching myself new skills. I love computer programming, and integrating code with technology. I like to build Mobile & Web-based applications, as well as tooling and applications for Desktops. In my spare time I enjoy cooking, being a playmate to my daughter, and practicing coding. I'm always trying to work on new personal projects to keep my skills sharp, and learn new things. I find it's the best way to grow.
+I am a lifelong learner, and constantly teaching myself new skills. I love computer programming, and integrating code with technology.
 
 📫 Contact me: 
 - mrkbooms@gmail.com Email
